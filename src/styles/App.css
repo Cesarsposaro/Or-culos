@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.redeal {
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 10px;
+  background-color: rgb(129, 24, 24);
+  color: honeydew;
+}
+
+.redeal:hover {
+  font-weight: bold;
+  box-shadow: 1px 2px grey;
+}
