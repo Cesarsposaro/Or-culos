@@ -1,3 +1,9 @@
+#Oraculos / Tarot cards 
+
+Este es un demo de una aplicación web realizada para una terapeuta holística. Permite revelar una cierta cantidad de cartas traidas desde un archivo JSON sin repetir ninguna en la misma tirada de cartas (Se muestran imágenes de prueba para no vulnerar la propiedad intelectual del cliente)
+
+This is a web app for a holistic therapist. It shows an elegible amount of cards without repeating from a JSON file (In this demo we are using test images due to copyright)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
